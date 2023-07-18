@@ -1,11 +1,12 @@
 
 
 <div align=left>
+  
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hyo%27s%20github&fontSize=70)
 
-  #### Introduction🙌
-  ##### 안녕하세요! **임베디드 개발자**에서 **백엔드 개발자**로 커리어 전환 중인 주니어 개발자입니다 :)
-  ##### 서버, 네트워크 등에 관심이 많으며, 꾸준히 공부 중입니다.
+  ### Introduction🙌
+  #### 안녕하세요! **임베디드 개발자**에서 **백엔드 개발자**로 커리어 전환 중인 주니어 개발자입니다 :)
+  #### 서버, 네트워크 등에 관심이 많으며, 꾸준히 공부 중입니다.
 
   #### Skill
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">

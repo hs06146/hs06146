@@ -6,7 +6,7 @@
 
   <h4> Introduction🙌 </h4>
   <h5> 안녕하세요! 임베디드 개발자에서 백엔드 개발자로 커리어 전환 중인 주니어 개발자입니다 :) <br/>서버, 네트워크 등에 관심이 많으며, 꾸준히 공부 중입니다.<hr/></h5>
-  <br><br>
+  <br>
   
   #### Skill
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">

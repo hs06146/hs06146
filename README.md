@@ -10,7 +10,7 @@
   #### ✅ Today 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhs06146&count_bg=%23A079F7&title_bg=%236528F7&icon=&icon_color=%23E7E7E7&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
   
-  #### 👌 Skill 
+  #### 👌 Tech Skill 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white">
@@ -43,22 +43,7 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hs06146&show_icons=true&theme=radical)
 
   <br>
-
+  <!--
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hs06146&langs_count=8)](https://github.com/hs06146/github-readme-stats)
-  
+  -->
 </div>
-
-<!--
-**hs06146/hs06146** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

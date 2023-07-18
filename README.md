@@ -5,7 +5,7 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hyo%27s%20github&fontSize=70)
 
   <h4> Introduction🙌 </h4>
-  <h5> 안녕하세요! **임베디드 개발자**에서 **백엔드 개발자**로 커리어 전환 중인 주니어 개발자입니다 :)
+  <h5> 안녕하세요! **임베디드 개발자**에서 **백엔드 개발자**로 커리어 전환 중인 주니어 개발자입니다 :)<hr/>
   서버, 네트워크 등에 관심이 많으며, 꾸준히 공부 중입니다.</h5>
   <br><br>
   #### Skill

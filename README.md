@@ -16,6 +16,8 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hs06146&langs_count=8)](https://github.com/hs06146/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hs06146&show_icons=true&theme=radical)
+
+  ![header](https://capsule-render.vercel.app/api?type=transeprent&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
   
 </div>
 

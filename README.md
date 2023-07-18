@@ -14,6 +14,9 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhs06146&count_bg=%23A079F7&title_bg=%236528F7&icon=&icon_color=%23E7E7E7&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hs06146&langs_count=8)](https://github.com/hs06146/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hs06146&show_icons=true&theme=radical)
+  
 </div>
 
 <!--

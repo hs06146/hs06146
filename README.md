@@ -35,9 +35,9 @@
   
   
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hs06146&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hs06146&show_icons=true&theme=radical)
 
-  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hs06146&langs_count=8)](https://github.com/hs06146/github-readme-stats)
   
 </div>
 

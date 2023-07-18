@@ -1,6 +1,9 @@
 
 
 <div align=center>
+
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hyo%27s%20github&fontSize=70)
+  
   <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
@@ -17,7 +20,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hs06146&show_icons=true&theme=radical)
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hyo%27s%20github&fontSize=70)
+  
   
 </div>
 

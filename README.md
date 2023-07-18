@@ -19,7 +19,12 @@
   <br>
 
   #### Studying
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white">
+  <br>
+  
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=aws&logoColor=white">
   <img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=ec2&logoColor=black">
   <img src="https://img.shields.io/badge/RDS-527FFF?style=flat&logo=rds&logoColor=white">

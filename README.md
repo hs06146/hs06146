@@ -17,7 +17,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hs06146&show_icons=true&theme=radical)
 
-  ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hyo's%20github&fontSize=90)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hyo%27s%20github&fontSize=70)
   
 </div>
 

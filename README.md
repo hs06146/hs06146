@@ -8,7 +8,7 @@
   <h5> 안녕하세요! 임베디드 개발자에서 백엔드 개발자로 커리어 전환 중인 주니어 개발자입니다 :) <br/>서버, 네트워크 등에 관심이 많으며, 꾸준히 공부 중입니다.<hr/></h5>
   <br>
   
-  #### Skill 👌
+  #### 👌 Skill 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white">
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white">
   <br>
 
-  #### Studying 📕
+  #### 📕 Studying 
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
@@ -35,12 +35,14 @@
   <img src="https://img.shields.io/badge/Elastic Search-005571?style=flat&logo=elasticsearch&logoColor=white">
   <br>
 
-  #### Today ✅
+  #### ✅ Today 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhs06146&count_bg=%23A079F7&title_bg=%236528F7&icon=&icon_color=%23E7E7E7&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
   
-  
+  <br>  
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hs06146&show_icons=true&theme=radical)
+
+  <br>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hs06146&langs_count=8)](https://github.com/hs06146/github-readme-stats)
   

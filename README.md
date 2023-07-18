@@ -5,19 +5,26 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hyo%27s%20github&fontSize=70)
 
   #### Skill
-  <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=Linux&logoColor=black">
-  <img src="https://img.shields.io/badge/ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white">
-  <img src="https://img.shields.io/badge/github-181717?style=flat&logo=Github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=Git&logoColor=white">
-  
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=Mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=Javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/express-000000?style=flat&logo=Express&logoColor=white">
+  
+  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white">
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white">
+  <br>
 
   #### Studying
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=aws&logoColor=white">
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=ec2&logoColor=black">
+  <img src="https://img.shields.io/badge/RDS-527FFF?style=flat&logo=rds&logoColor=white">
+  <img src="https://img.shields.io/badge/Elastic Search-005571?style=flat&logo=elasticsearch&logoColor=white">
+
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhs06146&count_bg=%23A079F7&title_bg=%236528F7&icon=&icon_color=%23E7E7E7&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
   

@@ -3,7 +3,8 @@
 <div align=center>
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hyo%27s%20github&fontSize=70)
-  
+
+  ####Skill
   <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
@@ -13,6 +14,7 @@
   <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white">
 
+  ####Studying
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhs06146&count_bg=%23A079F7&title_bg=%236528F7&icon=&icon_color=%23E7E7E7&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
   

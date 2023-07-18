@@ -5,14 +5,16 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hyo%27s%20github&fontSize=70)
 
   #### Skill
-  <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=Linux&logoColor=black">
+  <img src="https://img.shields.io/badge/ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/github-181717?style=flat&logo=Github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=Git&logoColor=white">
+  
   <br>
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=Mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=Javascript&logoColor=black">
   <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/express-000000?style=flat&logo=Express&logoColor=white">
 
   #### Studying
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white">

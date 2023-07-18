@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=Yellow"/>
 <!--
 **hs06146/hs06146** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

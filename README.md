@@ -5,7 +5,7 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hyo%27s%20github&fontSize=70)
 
   <h4> 📢 Introduction </h4>
-  <h5> 안녕하세요! 임베디드 개발자에서 백엔드 개발자로 커리어 전환 중인 주니어 개발자입니다 :) <br/>서버, 네트워크 등에 관심이 많으며, 꾸준히 공부 중입니다.<hr/></h5>
+  <h5> 안녕하세요! 임베디드 개발자로 시작하여 백엔드 개발자가 되고 싶은 주니어 개발자입니다 :) <br/>서버, 네트워크 등에 관심이 많으며, 지속적으로 공부하고 있습니다.<hr/></h5>
 
   #### ✅ Today 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhs06146&count_bg=%23A079F7&title_bg=%236528F7&icon=&icon_color=%23E7E7E7&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
